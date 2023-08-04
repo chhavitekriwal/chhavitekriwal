@@ -72,7 +72,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Hey, I'm Chhavi"
   name = "Chhavi"
-  description = "An aspring developer. A curious learner."
+  description = "An aspiring developer. A curious learner."
 
 # Allow to override webmanifest options
 [params.webmanifest]
