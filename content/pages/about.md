@@ -6,7 +6,7 @@ author: Chhavi
 
 I am Chhavi Tekriwal, currently a final year undergrad at IIT Kharagpur, pursuing my B.Tech. in Instrumentation Engineering.
 
-I believe in the process of learning on the go and utilizing every opportunity knocking the door. I have tried my hands at web development and am particularly interested in backend technologies. At the time of writing this, I am reading about operating systems and computer networks. In this blog, I plan to pen down stuff that I find interesting, along with some life experiences.
+I believe in the process of learning on the go and utilizing every opportunity knocking at the door. I have tried my hands at web development and am particularly interested in backend technologies. At the time of writing this, I am reading about operating systems and computer networks. In this blog, I plan to pen down stuff that I find interesting, along with some life experiences.
 
 I love listening to Bollywood songs (no, not the recent ones). I also like Hindustani Classical music, and have trained in the same for a few years. Below is my playlist, if you want to know more about my music taste. Apart from music, I like playing board games (particularly [Scrabble](https://www.wikihow.com/Play-Scrabble) and [Sequence](https://www.wikihow.com/Play-Sequence)), going on cycle rides and hanging out with my friends on [2.2](https://wiki.metakgp.org/w/2.2).
 
